@@ -31,6 +31,6 @@ Algoritmo Promedio
 	prom<-acum/n
 	
 	Escribir "El promedio es: ",prom
-	
+	Escribir "Made by Francisco Plaza Carmona"
 FinAlgoritmo
 
